@@ -9,6 +9,3 @@ GAMEPLAY:
 SCORE:
 ![image](https://user-images.githubusercontent.com/112221202/217343923-90eb0a93-a989-4d49-8747-54eca39dfed4.png)
 
-<P>
-NOTE : TEST FORK
-</P>
